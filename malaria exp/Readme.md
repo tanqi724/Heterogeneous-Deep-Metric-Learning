@@ -4,3 +4,5 @@ Code for "Addressing Incomplete-Data Challenges in the 1-3-7 Surveillance Strate
 
 Run real_exp_run_deep_AUG.m for starting the HDML and HDML-UF alogrithm on malaria datasets.
 
+The results would be stored in Folder Real_Result.
+
